@@ -151,7 +151,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       .access_alarm_sharp) //Image(image: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiy6NWxBLqCNXHDpUuRSHoM00LNanJoD02LshZPoHVcA&s')),
                                   ),
                               Column(
-                                children: [ ``
+                                children: [
                                   Row(
                                     children: [
                                       Text(
